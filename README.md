@@ -45,16 +45,6 @@ Building production-grade infrastructure for medical AI applications with:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Antoine's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntoinePrevost&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 ## 🎓 Background
 
 **Télécom Paris** (Institut Polytechnique de Paris)  
