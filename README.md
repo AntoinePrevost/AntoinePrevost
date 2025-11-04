@@ -4,8 +4,8 @@
   
 **Cloud & ML Engineer | Building scalable AI systems on AWS**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/antoine-prevost)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoine.prevost.eng@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoine-prevost-a29929264/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antoine.prevost.contact@gmail.com)
 
 </div>
 
@@ -63,9 +63,9 @@ FIUBA Buenos Aires | Top South American Engineering School
 
 💼 Open to **Cloud/ML Engineering opportunities**  
 📍 Based in **Paris, France**  
-📧 **antoine.prevost.eng@gmail.com**
+📧 **antoine.prevost.contact@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/antoine-prevost)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/antoine-prevost-a29929264/)
 <!--
 **AntoinePrevost/AntoinePrevost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
