@@ -48,7 +48,7 @@ Building production-grade infrastructure for medical AI applications with:
 ## 🎓 Background
 
 **Télécom Paris** (Institut Polytechnique de Paris)  
-Engineering Degree | GPA: 3.95/4.0 (Top 5%)
+Engineering Degree | GPA: 3.92/4.0 (Top 10%)
 
 **Specializations:**
 - Applied Mathematics for AI (Statistics, Optimization, Deep Learning)
